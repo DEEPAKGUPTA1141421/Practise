@@ -1,0 +1,100 @@
+.wrap {
+  display: flex;
+  align-items: flex-start;
+  gap: 10px;
+  max-width: 480px;
+}
+
+.avatar {
+  width: 30px;
+  height: 30px;
+  flex-shrink: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 10px;
+  font-weight: 700;
+  border: 1px solid var(--border);
+  background: var(--surface2);
+  color: var(--text);
+}
+
+.card {
+  flex: 1;
+  border: 1px solid var(--border);
+  background: var(--surface);
+  padding: 14px 16px;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.title {
+  font-size: 12px;
+  font-weight: 600;
+  color: var(--text);
+  letter-spacing: 0.2px;
+}
+
+.pct {
+  font-size: 12px;
+  font-weight: 700;
+  color: var(--text-muted);
+  font-variant-numeric: tabular-nums;
+}
+
+.bar {
+  height: 2px;
+  background: var(--border);
+}
+
+.fill {
+  height: 100%;
+  background: var(--white);
+  transition: width 0.07s linear;
+}
+
+.steps {
+  display: flex;
+  flex-direction: column;
+  gap: 7px;
+}
+
+.step {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  opacity: 0.25;
+  transition: opacity 0.3s;
+}
+
+.step.done   { opacity: 0.5; }
+.step.active { opacity: 1; }
+
+.dot {
+  width: 5px;
+  height: 5px;
+  border: 1px solid var(--text-muted);
+  flex-shrink: 0;
+}
+
+.step.done   .dot { background: var(--text-muted); }
+.step.active .dot {
+  background: var(--white);
+  border-color: var(--white);
+  animation: pulse 0.8s infinite;
+}
+
+.stepText { font-size: 11px; color: var(--text-muted); }
+.step.active .stepText { color: var(--text); }
+
+@keyframes pulse {
+  0%, 100% { opacity: 1; }
+  50%       { opacity: 0.3; }
+}
