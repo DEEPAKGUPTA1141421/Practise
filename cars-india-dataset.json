@@ -1,0 +1,1178 @@
+[
+  {
+    "make": "Maruti Suzuki",
+    "model": "Swift",
+    "variant": "VXI",
+    "price": 789000,
+    "specs": {
+      "engine": "1.2L Petrol",
+      "transmission": "5-speed Manual",
+      "fuelType": "Petrol",
+      "seatingCapacity": 5,
+      "bootSpace": "268L",
+      "features": ["ABS", "Dual Airbags", "Touchscreen Infotainment"]
+    },
+    "mileage": 23.2,
+    "safetyRating": 4.2,
+    "userReviews": [
+      "Great fuel efficiency and low maintenance.",
+      "Comfortable for city driving and easy to park.",
+      "Build quality is good for the price."
+    ]
+  },
+  {
+    "make": "Hyundai",
+    "model": "i20",
+    "variant": "Asta",
+    "price": 1139000,
+    "specs": {
+      "engine": "1.2L Petrol",
+      "transmission": "5-speed Manual",
+      "fuelType": "Petrol",
+      "seatingCapacity": 5,
+      "bootSpace": "311L",
+      "features": ["Panoramic Sunroof", "Wireless Charging", "6 Airbags"]
+    },
+    "mileage": 20.35,
+    "safetyRating": 4.4,
+    "userReviews": [
+      "Premium feel and comfortable interior.",
+      "Features are excellent for the price point.",
+      "Service network is strong across India."
+    ]
+  },
+  {
+    "make": "Tata",
+    "model": "Tiago",
+    "variant": "XE",
+    "price": 612000,
+    "specs": {
+      "engine": "1.2L Petrol",
+      "transmission": "5-speed Manual",
+      "fuelType": "Petrol",
+      "seatingCapacity": 5,
+      "bootSpace": "242L",
+      "features": ["Power Windows", "Manual AC", "Central Locking"]
+    },
+    "mileage": 19.0,
+    "safetyRating": 4.0,
+    "userReviews": [
+      "Value for money hatchback with strong safety credentials.",
+      "Spacious cabin and solid road presence.",
+      "A bit noisy at high speeds but overall reliable."
+    ]
+  },
+  {
+    "make": "Kia",
+    "model": "Seltos",
+    "variant": "HTX",
+    "price": 1545000,
+    "specs": {
+      "engine": "1.5L Petrol",
+      "transmission": "CVT",
+      "fuelType": "Petrol",
+      "seatingCapacity": 5,
+      "bootSpace": "433L",
+      "features": ["Cruise Control", "Wireless Charging", "12.3-inch Infotainment"]
+    },
+    "mileage": 16.8,
+    "safetyRating": 4.6,
+    "userReviews": [
+      "Modern design and solid build quality.",
+      "Ride quality is excellent on Indian roads.",
+      "Infotainment unit is responsive and feature-rich."
+    ]
+  },
+  {
+    "make": "Mahindra",
+    "model": "XUV300",
+    "variant": "W8 Leather",
+    "price": 1589000,
+    "specs": {
+      "engine": "1.2L Turbo Petrol",
+      "transmission": "6-speed Manual",
+      "fuelType": "Petrol",
+      "seatingCapacity": 5,
+      "bootSpace": "259L",
+      "features": ["Dual Zone Climate Control", "ESP", "7 Airbags"]
+    },
+    "mileage": 17.5,
+    "safetyRating": 5.0,
+    "userReviews": [
+      "One of the safest subcompact SUVs in India.",
+      "Peppy engine and confidence inspiring drive.",
+      "Rear seats are comfortable and supportive."
+    ]
+  },
+  {
+    "make": "Toyota",
+    "model": "Urban Cruiser",
+    "variant": "V",
+    "price": 1069000,
+    "specs": {
+      "engine": "1.5L Petrol",
+      "transmission": "5-speed Manual",
+      "fuelType": "Petrol",
+      "seatingCapacity": 5,
+      "bootSpace": "253L",
+      "features": ["Reverse Camera", "Apple CarPlay", "ABS"]
+    },
+    "mileage": 17.1,
+    "safetyRating": 4.1,
+    "userReviews": [
+      "Reliable daily driver with Toyota resale value.",
+      "A tad compact but good visibility and comfort.",
+      "Service experience is easy and dependable."
+    ]
+  },
+  {
+    "make": "Honda",
+    "model": "City",
+    "variant": "SV",
+    "price": 1579000,
+    "specs": {
+      "engine": "1.5L Petrol",
+      "transmission": "CVT",
+      "fuelType": "Petrol",
+      "seatingCapacity": 5,
+      "bootSpace": "506L",
+      "features": ["Smart Entry", "LaneWatch", "8-inch Display"]
+    },
+    "mileage": 17.8,
+    "safetyRating": 4.0,
+    "userReviews": [
+      "Spacious sedan with refined engine.",
+      "Stable at highway speeds and spacious boot.",
+      "Expected more premium features for the price."
+    ]
+  },
+  {
+    "make": "Ford",
+    "model": "EcoSport",
+    "variant": "Titanium Plus",
+    "price": 1299000,
+    "specs": {
+      "engine": "1.5L Petrol",
+      "transmission": "6-speed Manual",
+      "fuelType": "Petrol",
+      "seatingCapacity": 5,
+      "bootSpace": "356L",
+      "features": ["SYNC 3", "Rain Sensing Wipers", "Hill Launch Assist"]
+    },
+    "mileage": 16.1,
+    "safetyRating": 4.2,
+    "userReviews": [
+      "Strong engine and fun to drive.",
+      "Interior could use more premium materials.",
+      "Decent feature list for the segment."
+    ]
+  },
+  {
+    "make": "Volkswagen",
+    "model": "Taigun",
+    "variant": "1.0 TSI Life",
+    "price": 1199000,
+    "specs": {
+      "engine": "1.0L Turbo Petrol",
+      "transmission": "6-speed Manual",
+      "fuelType": "Petrol",
+      "seatingCapacity": 5,
+      "bootSpace": "385L",
+      "features": ["Digital Cockpit", "ESC", "6 Airbags"]
+    },
+    "mileage": 18.2,
+    "safetyRating": 4.4,
+    "userReviews": [
+      "German build quality is noticeable.",
+      "Engine is responsive and efficient.",
+      "Cabin is spacious and comfortable."
+    ]
+  },
+  {
+    "make": "Skoda",
+    "model": "Slavia",
+    "variant": "Style",
+    "price": 1489000,
+    "specs": {
+      "engine": "1.0L Turbo Petrol",
+      "transmission": "6-speed Manual",
+      "fuelType": "Petrol",
+      "seatingCapacity": 5,
+      "bootSpace": "521L",
+      "features": ["Ambient Lighting", "Wireless Charging", "6 Airbags"]
+    },
+    "mileage": 19.2,
+    "safetyRating": 4.6,
+    "userReviews": [
+      "Solid sedan with premium ride comfort.",
+      "Interior quality is impressive.",
+      "Boot space is excellent for long trips."
+    ]
+  },
+  {
+    "make": "Renault",
+    "model": "Kiger",
+    "variant": "RXZ",
+    "price": 1150000,
+    "specs": {
+      "engine": "1.0L Turbo Petrol",
+      "transmission": "AMT",
+      "fuelType": "Petrol",
+      "seatingCapacity": 5,
+      "bootSpace": "405L",
+      "features": ["Smart Access Card", "6.5-inch Touchscreen", "Rear Parking Sensors"]
+    },
+    "mileage": 18.5,
+    "safetyRating": 3.8,
+    "userReviews": [
+      "Spacious inside and good value.",
+      "Ride quality is decent for the segment.",
+      "AMT gearbox is smooth enough in city traffic."
+    ]
+  },
+  {
+    "make": "Nissan",
+    "model": "Magnite",
+    "variant": "XV Premium",
+    "price": 1010000,
+    "specs": {
+      "engine": "1.0L Turbo Petrol",
+      "transmission": "CVT",
+      "fuelType": "Petrol",
+      "seatingCapacity": 5,
+      "bootSpace": "336L",
+      "features": ["360-degree Camera", "Bose Audio", "Smart Cruise Control"]
+    },
+    "mileage": 18.0,
+    "safetyRating": 4.0,
+    "userReviews": [
+      "Great feature list for the price.",
+      "Interior design feels modern and fresh.",
+      "Ride comfort is good on bad roads."
+    ]
+  },
+  {
+    "make": "MG",
+    "model": "Hector",
+    "variant": "Sharp",
+    "price": 1815000,
+    "specs": {
+      "engine": "1.5L Turbo Petrol",
+      "transmission": "6-speed Manual",
+      "fuelType": "Petrol",
+      "seatingCapacity": 5,
+      "bootSpace": "587L",
+      "features": ["Panoramic Sunroof", "12.3-inch Infotainment", "6 Airbags"]
+    },
+    "mileage": 14.0,
+    "safetyRating": 5.0,
+    "userReviews": [
+      "Spacious SUV with premium features.",
+      "Ride comfort is very good for families.",
+      "Service network is growing across India."
+    ]
+  },
+  {
+    "make": "Hyundai",
+    "model": "Venue",
+    "variant": "SX Plus Turbo DCT",
+    "price": 1581000,
+    "specs": {
+      "engine": "1.0L Turbo Petrol",
+      "transmission": "7-speed DCT",
+      "fuelType": "Petrol",
+      "seatingCapacity": 5,
+      "bootSpace": "350L",
+      "features": ["Sunroof", "6 Airbags", "ADAS"]
+    },
+    "mileage": 17.0,
+    "safetyRating": 4.5,
+    "userReviews": [
+      "Turbo engine feels punchy and refined.",
+      "ADAS works well in highway traffic.",
+      "A comfortable compact SUV for the city."
+    ]
+  },
+  {
+    "make": "Tata",
+    "model": "Nexon",
+    "variant": "XZA+ Lux",
+    "price": 1789000,
+    "specs": {
+      "engine": "1.2L Turbo Petrol",
+      "transmission": "AMT",
+      "fuelType": "Petrol",
+      "seatingCapacity": 5,
+      "bootSpace": "350L",
+      "features": ["360-degree Camera", "Wireless Charging", "7-inch Display"]
+    },
+    "mileage": 17.1,
+    "safetyRating": 5.0,
+    "userReviews": [
+      "Excellent safety package and refined engine.",
+      "Top-spec variant is feature-loaded.",
+      "A bit firm on bad roads but stable overall."
+    ]
+  },
+  {
+    "make": "Maruti Suzuki",
+    "model": "Baleno",
+    "variant": "Alpha",
+    "price": 1065000,
+    "specs": {
+      "engine": "1.2L Petrol",
+      "transmission": "CVT",
+      "fuelType": "Petrol",
+      "seatingCapacity": 5,
+      "bootSpace": "339L",
+      "features": ["SmartPlay Studio", "6 Airbags", "ESP"]
+    },
+    "mileage": 22.0,
+    "safetyRating": 4.2,
+    "userReviews": [
+      "Spacious hatchback and smooth gearbox.",
+      "Good resale value and low maintenance.",
+      "Ride quality could be better for full load."
+    ]
+  },
+  {
+    "make": "Hyundai",
+    "model": "Aura",
+    "variant": "SX",
+    "price": 810000,
+    "specs": {
+      "engine": "1.2L Petrol",
+      "transmission": "5-speed Manual",
+      "fuelType": "Petrol",
+      "seatingCapacity": 5,
+      "bootSpace": "402L",
+      "features": ["Wireless Charger", "Rear Camera", "6 Airbags"]
+    },
+    "mileage": 21.2,
+    "safetyRating": 3.9,
+    "userReviews": [
+      "Comfortable sedan with a spacious boot.",
+      "Good highway stability and smooth driving.",
+      "Interior plastics feel average but functional."
+    ]
+  },
+  {
+    "make": "Maruti Suzuki",
+    "model": "Brezza",
+    "variant": "ZXI Plus",
+    "price": 1455000,
+    "specs": {
+      "engine": "1.5L Petrol",
+      "transmission": "5-speed Manual",
+      "fuelType": "Petrol",
+      "seatingCapacity": 5,
+      "bootSpace": "328L",
+      "features": ["SmartPlay Studio", "ESP", "6 Airbags"]
+    },
+    "mileage": 18.8,
+    "safetyRating": 4.5,
+    "userReviews": [
+      "Reliable and high resale value.",
+      "Strong engine with good mid-range performance.",
+      "Interior design is practical and spacious."
+    ]
+  },
+  {
+    "make": "Hyundai",
+    "model": "Verna",
+    "variant": "SX",
+    "price": 1419000,
+    "specs": {
+      "engine": "1.5L Petrol",
+      "transmission": "IVT",
+      "fuelType": "Petrol",
+      "seatingCapacity": 5,
+      "bootSpace": "480L",
+      "features": ["Ventilated Seats", "Sunroof", "6 Airbags"]
+    },
+    "mileage": 17.3,
+    "safetyRating": 4.1,
+    "userReviews": [
+      "Refined engine and plush ride comfort.",
+      "Interior is well-built and quiet.",
+      "Features are very competitive for the segment."
+    ]
+  },
+  {
+    "make": "Toyota",
+    "model": "Urban Cruiser Hyryder",
+    "variant": "Z",
+    "price": 2100000,
+    "specs": {
+      "engine": "1.5L Hybrid",
+      "transmission": "e-CVT",
+      "fuelType": "Hybrid",
+      "seatingCapacity": 5,
+      "bootSpace": "320L",
+      "features": ["Hybrid Technology", "ADAS", "12.3-inch Display"]
+    },
+    "mileage": 27.0,
+    "safetyRating": 4.4,
+    "userReviews": [
+      "Excellent fuel economy and plush ride.",
+      "Hyundai-sourced hybrid powertrain is smooth.",
+      "Comfortable cabin and premium feature list."
+    ]
+  },
+  {
+    "make": "Honda",
+    "model": "Amaze",
+    "variant": "VX CVT",
+    "price": 1199000,
+    "specs": {
+      "engine": "1.2L Petrol",
+      "transmission": "CVT",
+      "fuelType": "Petrol",
+      "seatingCapacity": 5,
+      "bootSpace": "420L",
+      "features": ["Eco Assist", "Rear Camera", "Dual Airbags"]
+    },
+    "mileage": 18.6,
+    "safetyRating": 3.8,
+    "userReviews": [
+      "Smooth gearbox and comfortable cabin.",
+      "Sedan has good boot space for the price.",
+      "Rear headroom is generous and good for tall passengers."
+    ]
+  },
+  {
+    "make": "Mahindra",
+    "model": "Scorpio N",
+    "variant": "N8",
+    "price": 2179000,
+    "specs": {
+      "engine": "2.0L Turbo Petrol",
+      "transmission": "6-speed Manual",
+      "fuelType": "Petrol",
+      "seatingCapacity": 7,
+      "bootSpace": "192L",
+      "features": ["Terrain Response", "Sunroof", "9 Airbags"]
+    },
+    "mileage": 14.0,
+    "safetyRating": 4.5,
+    "userReviews": [
+      "Powerful SUV with commanding road presence.",
+      "Off-road capability is strong for the price.",
+      "Rear seat comfort is improved over previous Scorpio."
+    ]
+  },
+  {
+    "make": "Tata",
+    "model": "Punch",
+    "variant": "Creative iCNG",
+    "price": 999000,
+    "specs": {
+      "engine": "1.2L Petrol",
+      "transmission": "5-speed Manual",
+      "fuelType": "CNG",
+      "seatingCapacity": 5,
+      "bootSpace": "366L",
+      "features": ["iRA Connected Car", "Hill Hold", "6 Airbags"]
+    },
+    "mileage": 18.7,
+    "safetyRating": 4.8,
+    "userReviews": [
+      "Compact SUV with excellent safety scores.",
+      "CNG option delivers low running costs.",
+      "Good interior quality for the segment."
+    ]
+  },
+  {
+    "make": "Kia",
+    "model": "Sonet",
+    "variant": "HTX Plus DCT",
+    "price": 1559000,
+    "specs": {
+      "engine": "1.0L Turbo Petrol",
+      "transmission": "7-speed DCT",
+      "fuelType": "Petrol",
+      "seatingCapacity": 5,
+      "bootSpace": "392L",
+      "features": ["Air Purifier", "6 Airbags", "Wireless Charger"]
+    },
+    "mileage": 17.9,
+    "safetyRating": 4.4,
+    "userReviews": [
+      "Fun-to-drive and well-equipped.",
+      "Interior feels premium and well-built.",
+      "Good balance of comfort and performance."
+    ]
+  },
+  {
+    "make": "Hyundai",
+    "model": "Creta",
+    "variant": "SX Opt Turbo",
+    "price": 1809000,
+    "specs": {
+      "engine": "1.4L Turbo Petrol",
+      "transmission": "7-speed DCT",
+      "fuelType": "Petrol",
+      "seatingCapacity": 5,
+      "bootSpace": "433L",
+      "features": ["Smart Key", "Blind Spot Monitor", "8-inch Display"]
+    },
+    "mileage": 16.3,
+    "safetyRating": 4.2,
+    "userReviews": [
+      "Very comfortable and spacious for families.",
+      "Turbo engine gives ample power.",
+      "Ride is composed even on highway potholes."
+    ]
+  },
+  {
+    "make": "Toyota",
+    "model": "Fortuner",
+    "variant": "Legender 4x2 AT",
+    "price": 3839000,
+    "specs": {
+      "engine": "2.7L Petrol",
+      "transmission": "6-speed Automatic",
+      "fuelType": "Petrol",
+      "seatingCapacity": 7,
+      "bootSpace": "296L",
+      "features": ["Cruise Control", "7 Airbags", "Multi-terrain Select"]
+    },
+    "mileage": 10.9,
+    "safetyRating": 4.8,
+    "userReviews": [
+      "Iconic SUV with great road presence.",
+      "Very reliable and comfortable for long drives.",
+      "Fuel efficiency is low but expected for the segment."
+    ]
+  },
+  {
+    "make": "Mahindra",
+    "model": "XUV700",
+    "variant": "AX7 Lux AWD",
+    "price": 2879000,
+    "specs": {
+      "engine": "2.0L Turbo Petrol",
+      "transmission": "6-speed Manual",
+      "fuelType": "Petrol",
+      "seatingCapacity": 7,
+      "bootSpace": "300L",
+      "features": ["ADAS", "6 Airbags", "Sunroof"]
+    },
+    "mileage": 15.5,
+    "safetyRating": 5.0,
+    "userReviews": [
+      "Feature loaded and strong performance.",
+      "Spacious cabin with good comfort.",
+      "Handling is surprising for a large SUV."
+    ]
+  },
+  {
+    "make": "Renault",
+    "model": "Triber",
+    "variant": "RXZ Petrol",
+    "price": 719000,
+    "specs": {
+      "engine": "1.0L Petrol",
+      "transmission": "5-speed Manual",
+      "fuelType": "Petrol",
+      "seatingCapacity": 7,
+      "bootSpace": "84L",
+      "features": ["Modular Seating", "8-inch MediaNav", "Rear Parking Sensors"]
+    },
+    "mileage": 19.6,
+    "safetyRating": 3.6,
+    "userReviews": [
+      "Great value for a 7-seater micro SUV.",
+      "Seats are flexible and easy to reconfigure.",
+      "Performance is basic but sufficient for city driving."
+    ]
+  },
+  {
+    "make": "Toyota",
+    "model": "Yaris",
+    "variant": "G",
+    "price": 1124000,
+    "specs": {
+      "engine": "1.5L Petrol",
+      "transmission": "Manual",
+      "fuelType": "Petrol",
+      "seatingCapacity": 5,
+      "bootSpace": "476L",
+      "features": ["Smart Key", "6 Airbags", "Touchscreen Infotainment"]
+    },
+    "mileage": 18.7,
+    "safetyRating": 4.0,
+    "userReviews": [
+      "Comfortable sedan with good build quality.",
+      "Nice driving position and smooth engine.",
+      "Interior materials feel premium."
+    ]
+  },
+  {
+    "make": "Hyundai",
+    "model": "Grand i10 NIOS",
+    "variant": "Sportz",
+    "price": 660000,
+    "specs": {
+      "engine": "1.2L Petrol",
+      "transmission": "5-speed Manual",
+      "fuelType": "Petrol",
+      "seatingCapacity": 5,
+      "bootSpace": "260L",
+      "features": ["Touchscreen Infotainment", "Rear AC Vents", "Dual Airbags"]
+    },
+    "mileage": 20.7,
+    "safetyRating": 3.8,
+    "userReviews": [
+      "Compact and efficient city car.",
+      "Good value for money and easy to drive.",
+      "A bit cramped in the back for taller passengers."
+    ]
+  },
+  {
+    "make": "Datsun",
+    "model": "GO+",
+    "variant": "T",
+    "price": 499000,
+    "specs": {
+      "engine": "1.2L Petrol",
+      "transmission": "5-speed Manual",
+      "fuelType": "Petrol",
+      "seatingCapacity": 7,
+      "bootSpace": "135L",
+      "features": ["Central Locking", "Power Steering", "Dual Airbags"]
+    },
+    "mileage": 19.5,
+    "safetyRating": 3.2,
+    "userReviews": [
+      "Very affordable 7-seater for families on a budget.",
+      "Practical interior but basic finish.",
+      "City driving is easy and fuel economy is decent."
+    ]
+  },
+  {
+    "make": "Maruti Suzuki",
+    "model": "Ertiga",
+    "variant": "ZXI MT",
+    "price": 1129000,
+    "specs": {
+      "engine": "1.5L Petrol",
+      "transmission": "5-speed Manual",
+      "fuelType": "Petrol",
+      "seatingCapacity": 7,
+      "bootSpace": "209L",
+      "features": ["Infotainment Touchscreen", "7 Airbags", "Cruise Control"]
+    },
+    "mileage": 20.0,
+    "safetyRating": 4.1,
+    "userReviews": [
+      "Reliable MPV for long family trips.",
+      "Good cabin space and easy to drive.",
+      "Value for money compared to rivals."
+    ]
+  },
+  {
+    "make": "Toyota",
+    "model": "Innova Crysta",
+    "variant": "GX MT",
+    "price": 2061000,
+    "specs": {
+      "engine": "2.4L Diesel",
+      "transmission": "5-speed Manual",
+      "fuelType": "Diesel",
+      "seatingCapacity": 7,
+      "bootSpace": "300L",
+      "features": ["Eco Mode", "7 Airbags", "Touchscreen Infotainment"]
+    },
+    "mileage": 13.5,
+    "safetyRating": 4.6,
+    "userReviews": [
+      "Extremely reliable and comfortable for families.",
+      "Excellent resale value and spacious cabin.",
+      "A trusted MPV for highways and city travel."
+    ]
+  },
+  {
+    "make": "Kia",
+    "model": "Carnival",
+    "variant": "Premium",
+    "price": 3710000,
+    "specs": {
+      "engine": "2.2L Diesel",
+      "transmission": "8-speed Automatic",
+      "fuelType": "Diesel",
+      "seatingCapacity": 7,
+      "bootSpace": "406L",
+      "features": ["Captain Seats", "Smart Power Tailgate", "Sunroof"]
+    },
+    "mileage": 12.4,
+    "safetyRating": 5.0,
+    "userReviews": [
+      "Luxury MPV with premium comfort and features.",
+      "Very practical for large families and long drives.",
+      "High price but justified by the space and equipment."
+    ]
+  },
+  {
+    "make": "Skoda",
+    "model": "Kodiaq",
+    "variant": "Style",
+    "price": 4009000,
+    "specs": {
+      "engine": "2.0L Turbo Petrol",
+      "transmission": "7-speed DSG",
+      "fuelType": "Petrol",
+      "seatingCapacity": 7,
+      "bootSpace": "270L",
+      "features": ["Virtual Cockpit", "6 Airbags", "Panoramic Sunroof"]
+    },
+    "mileage": 13.0,
+    "safetyRating": 5.0,
+    "userReviews": [
+      "Plush interior and strong European handling.",
+      "Great for premium family travel.",
+      "A bit expensive but very well built."
+    ]
+  },
+  {
+    "make": "Hyundai",
+    "model": "Alcazar",
+    "variant": "Prestige DT",
+    "price": 1899000,
+    "specs": {
+      "engine": "1.5L Turbo Petrol",
+      "transmission": "6-speed Manual",
+      "fuelType": "Petrol",
+      "seatingCapacity": 7,
+      "bootSpace": "180L",
+      "features": ["7-inch Infotainment", "6 Airbags", "Ventilated Seats"]
+    },
+    "mileage": 16.0,
+    "safetyRating": 4.3,
+    "userReviews": [
+      "Spacious and comfortable for the whole family.",
+      "Premium features make it feel more expensive.",
+      "Ride comfort is excellent for long tours."
+    ]
+  },
+  {
+    "make": "Honda",
+    "model": "WR-V",
+    "variant": "V CVT",
+    "price": 1123000,
+    "specs": {
+      "engine": "1.2L Petrol",
+      "transmission": "CVT",
+      "fuelType": "Petrol",
+      "seatingCapacity": 5,
+      "bootSpace": "363L",
+      "features": ["Eco Assist", "Touchscreen Infotainment", "6 Airbags"]
+    },
+    "mileage": 18.4,
+    "safetyRating": 4.0,
+    "userReviews": [
+      "Fun compact SUV with good fuel efficiency.",
+      "Comfortable for city and occasional highway trips.",
+      "Interior is practical and easy to use."
+    ]
+  },
+  {
+    "make": "Tata",
+    "model": "Altroz",
+    "variant": "XZA+ DT",
+    "price": 1189000,
+    "specs": {
+      "engine": "1.2L Turbo Petrol",
+      "transmission": "AMT",
+      "fuelType": "Petrol",
+      "seatingCapacity": 5,
+      "bootSpace": "345L",
+      "features": ["Connected Car", "6 Airbags", "Panoramic Sunroof"]
+    },
+    "mileage": 18.0,
+    "safetyRating": 5.0,
+    "userReviews": [
+      "Looks stylish and drives confidently.",
+      "Great safety features for a hatchback.",
+      "Modern interior and comfortable seats."
+    ]
+  },
+  {
+    "make": "Hyundai",
+    "model": "i20 N Line",
+    "variant": "1.0 T-GDi DCT",
+    "price": 1749000,
+    "specs": {
+      "engine": "1.0L Turbo Petrol",
+      "transmission": "7-speed DCT",
+      "fuelType": "Petrol",
+      "seatingCapacity": 5,
+      "bootSpace": "311L",
+      "features": ["Sports Seats", "Ambient Lighting", "6 Airbags"]
+    },
+    "mileage": 18.7,
+    "safetyRating": 4.4,
+    "userReviews": [
+      "Fun and sporty hatchback with good refinement.",
+      "Handling is excellent for a hot hatch.",
+      "A bit pricey but worth it for the driving experience."
+    ]
+  },
+  {
+    "make": "Volkswagen",
+    "model": "Virtus",
+    "variant": "1.0 TSI Comfortline",
+    "price": 1099000,
+    "specs": {
+      "engine": "1.0L Turbo Petrol",
+      "transmission": "6-speed Manual",
+      "fuelType": "Petrol",
+      "seatingCapacity": 5,
+      "bootSpace": "521L",
+      "features": ["Digital Cockpit", "6 Airbags", "Touchscreen Infotainment"]
+    },
+    "mileage": 19.5,
+    "safetyRating": 4.5,
+    "userReviews": [
+      "Premium sedan feel at a good price.",
+      "Comfortable ride and direct steering.",
+      "A value choice for executive sedan buyers."
+    ]
+  },
+  {
+    "make": "Skoda",
+    "model": "Kushaq",
+    "variant": "1.5 TSI DSG",
+    "price": 1589000,
+    "specs": {
+      "engine": "1.5L Turbo Petrol",
+      "transmission": "7-speed DSG",
+      "fuelType": "Petrol",
+      "seatingCapacity": 5,
+      "bootSpace": "385L",
+      "features": ["Wireless Charging", "Dual-zone Climate Control", "6 Airbags"]
+    },
+    "mileage": 17.7,
+    "safetyRating": 4.6,
+    "userReviews": [
+      "Strong refinement and plush ride.",
+      "Good performance from the turbo engine.",
+      "Interior feels premium for the price."
+    ]
+  },
+  {
+    "make": "Nissan",
+    "model": "Kicks",
+    "variant": "XV Premium CVT",
+    "price": 1699000,
+    "specs": {
+      "engine": "1.5L Petrol",
+      "transmission": "CVT",
+      "fuelType": "Petrol",
+      "seatingCapacity": 5,
+      "bootSpace": "400L",
+      "features": ["360-degree Camera", "BOSE Audio", "Wireless Charging"]
+    },
+    "mileage": 15.5,
+    "safetyRating": 4.2,
+    "userReviews": [
+      "Comfortable and spacious interior.",
+      "Ride quality is smooth on highways.",
+      "Feature list is impressive at this price."
+    ]
+  },
+  {
+    "make": "MG",
+    "model": "Astor",
+    "variant": "Sharp",
+    "price": 1609000,
+    "specs": {
+      "engine": "1.5L Petrol",
+      "transmission": "CVT",
+      "fuelType": "Petrol",
+      "seatingCapacity": 5,
+      "bootSpace": "336L",
+      "features": ["ADAS", "12.3-inch Infotainment", "6 Airbags"]
+    },
+    "mileage": 17.8,
+    "safetyRating": 4.3,
+    "userReviews": [
+      "Feature-loaded and comfortable.",
+      "Infotainment system is excellent.",
+      "Stylish design with a good cabin layout."
+    ]
+  },
+  {
+    "make": "Maruti Suzuki",
+    "model": "Dzire",
+    "variant": "ZXI Plus",
+    "price": 984000,
+    "specs": {
+      "engine": "1.2L Petrol",
+      "transmission": "AMT",
+      "fuelType": "Petrol",
+      "seatingCapacity": 5,
+      "bootSpace": "378L",
+      "features": ["SmartPlay Studio", "Cruise Control", "ESP"]
+    },
+    "mileage": 23.3,
+    "safetyRating": 4.3,
+    "userReviews": [
+      "Reliable compact sedan with excellent mileage.",
+      "Smooth gearbox and comfortable ride.",
+      "Very popular choice for city families."
+    ]
+  },
+  {
+    "make": "Honda",
+    "model": "Civic",
+    "variant": "ZX CVT",
+    "price": 2816000,
+    "specs": {
+      "engine": "1.8L Petrol",
+      "transmission": "CVT",
+      "fuelType": "Petrol",
+      "seatingCapacity": 5,
+      "bootSpace": "430L",
+      "features": ["Leather Seats", "LaneWatch", "8-inch Display"]
+    },
+    "mileage": 16.5,
+    "safetyRating": 5.0,
+    "userReviews": [
+      "Smooth highway performance and premium cabin.",
+      "Excellent NVH levels and build quality.",
+      "A solid executive sedan choice for enthusiasts."
+    ]
+  },
+  {
+    "make": "Audi",
+    "model": "A4",
+    "variant": "35 TFSI Premium",
+    "price": 4399000,
+    "specs": {
+      "engine": "2.0L Turbo Petrol",
+      "transmission": "7-speed S tronic",
+      "fuelType": "Petrol",
+      "seatingCapacity": 5,
+      "bootSpace": "460L",
+      "features": ["Virtual Cockpit", "Matrix LED Headlights", "Bang & Olufsen Audio"]
+    },
+    "mileage": 15.8,
+    "safetyRating": 5.0,
+    "userReviews": [
+      "Luxurious and comfortable drive experience.",
+      "Refined engine and crisp handling.",
+      "Premium interior and strong brand appeal."
+    ]
+  },
+  {
+    "make": "BMW",
+    "model": "2 Series Gran Coupe",
+    "variant": "220i Sportline",
+    "price": 4659000,
+    "specs": {
+      "engine": "2.0L Turbo Petrol",
+      "transmission": "7-speed Steptronic",
+      "fuelType": "Petrol",
+      "seatingCapacity": 5,
+      "bootSpace": "430L",
+      "features": ["LED Headlights", "Sports Seats", "ConnectedDrive"]
+    },
+    "mileage": 14.9,
+    "safetyRating": 5.0,
+    "userReviews": [
+      "Sporty and premium compact executive sedan.",
+      "Excellent driving dynamics and feel.",
+      "High quality cabin and luxury experience."
+    ]
+  },
+  {
+    "make": "Mercedes-Benz",
+    "model": "A-Class Limousine",
+    "variant": "A 200 Progressive",
+    "price": 4999000,
+    "specs": {
+      "engine": "1.3L Turbo Petrol",
+      "transmission": "7-speed DCT",
+      "fuelType": "Petrol",
+      "seatingCapacity": 5,
+      "bootSpace": "420L",
+      "features": ["MBUX", "Ambient Lighting", "7 Airbags"]
+    },
+    "mileage": 15.2,
+    "safetyRating": 5.0,
+    "userReviews": [
+      "Luxurious feel with an upscale cabin.",
+      "Responsive engine and excellent tech features.",
+      "A premium city sedan with strong brand appeal."
+    ]
+  },
+  {
+    "make": "Tata",
+    "model": "Harrier",
+    "variant": "XZA+ DM",
+    "price": 2379000,
+    "specs": {
+      "engine": "2.0L Diesel",
+      "transmission": "6-speed Manual",
+      "fuelType": "Diesel",
+      "seatingCapacity": 5,
+      "bootSpace": "425L",
+      "features": ["Harrier Connect", "360-degree Camera", "6 Airbags"]
+    },
+    "mileage": 16.7,
+    "safetyRating": 5.0,
+    "userReviews": [
+      "Imposing SUV with comfortable seats.",
+      "Strong diesel engine and great ride quality.",
+      "Premium cabin with a rugged look."
+    ]
+  },
+  {
+    "make": "Mahindra",
+    "model": "Thar",
+    "variant": "AX OPT 4x4",
+    "price": 1799000,
+    "specs": {
+      "engine": "2.0L Turbo Petrol",
+      "transmission": "6-speed Manual",
+      "fuelType": "Petrol",
+      "seatingCapacity": 4,
+      "bootSpace": "433L",
+      "features": ["4x4 Drive", "Convertible Soft Top", "7-inch Infotainment"]
+    },
+    "mileage": 15.2,
+    "safetyRating": 4.0,
+    "userReviews": [
+      "Iconic off-roader with rugged charm.",
+      "Fun to drive on and off-road.",
+      "A few compromises in comfort but a great adventure car."
+    ]
+  },
+  {
+    "make": "Maruti Suzuki",
+    "model": "Glanza",
+    "variant": "V CVT",
+    "price": 899000,
+    "specs": {
+      "engine": "1.2L Petrol",
+      "transmission": "CVT",
+      "fuelType": "Petrol",
+      "seatingCapacity": 5,
+      "bootSpace": "313L",
+      "features": ["Touchscreen Infotainment", "Reverse Camera", "6 Airbags"]
+    },
+    "mileage": 22.3,
+    "safetyRating": 4.1,
+    "userReviews": [
+      "Affordable hatchback with Maruti reliability.",
+      "Smooth CVT and good feature set.",
+      "Spacious enough for a small family."
+    ]
+  },
+  {
+    "make": "Kia",
+    "model": "Carens",
+    "variant": "Luxury AT",
+    "price": 1729000,
+    "specs": {
+      "engine": "1.4L Turbo Petrol",
+      "transmission": "6-speed Automatic",
+      "fuelType": "Petrol",
+      "seatingCapacity": 7,
+      "bootSpace": "209L",
+      "features": ["7-seat Layout", "Sunroof", "12.3-inch Display"]
+    },
+    "mileage": 17.4,
+    "safetyRating": 4.4,
+    "userReviews": [
+      "Versatile people carrier with good space.",
+      "Looks stylish and feels premium.",
+      "Great for large families and road trips."
+    ]
+  },
+  {
+    "make": "Skoda",
+    "model": "Superb",
+    "variant": "L&K",
+    "price": 4209000,
+    "specs": {
+      "engine": "2.0L Turbo Petrol",
+      "transmission": "7-speed DSG",
+      "fuelType": "Petrol",
+      "seatingCapacity": 5,
+      "bootSpace": "625L",
+      "features": ["Adaptive Cruise Control", "Ambient Lighting", "10 Airbags"]
+    },
+    "mileage": 14.5,
+    "safetyRating": 5.0,
+    "userReviews": [
+      "Executive sedan with ample luxury and comfort.",
+      "Smooth ride and strong engine performance.",
+      "Plenty of interior space for rear passengers."
+    ]
+  },
+  {
+    "make": "Volkswagen",
+    "model": "Tiguan Allspace",
+    "variant": "Highline Plus",
+    "price": 4299000,
+    "specs": {
+      "engine": "2.0L Turbo Petrol",
+      "transmission": "7-speed DSG",
+      "fuelType": "Petrol",
+      "seatingCapacity": 7,
+      "bootSpace": "700L",
+      "features": ["4MOTION AWD", "Digital Cockpit", "6 Airbags"]
+    },
+    "mileage": 12.8,
+    "safetyRating": 5.0,
+    "userReviews": [
+      "Excellent build quality and ride comfort.",
+      "Spacious third row and premium cabin.",
+      "Great European SUV despite the premium price."
+    ]
+  },
+  {
+    "make": "Audi",
+    "model": "Q3",
+    "variant": "35 TFSI Premium",
+    "price": 3699000,
+    "specs": {
+      "engine": "2.0L Turbo Petrol",
+      "transmission": "7-speed S tronic",
+      "fuelType": "Petrol",
+      "seatingCapacity": 5,
+      "bootSpace": "530L",
+      "features": ["Quattro AWD", "Virtual Cockpit", "Bang & Olufsen Audio"]
+    },
+    "mileage": 13.2,
+    "safetyRating": 5.0,
+    "userReviews": [
+      "Premium compact SUV with great refinement.",
+      "Luxury features and strong performance.",
+      "Comfortable for everyday use and touring."
+    ]
+  },
+  {
+    "make": "Land Rover",
+    "model": "Range Rover Evoque",
+    "variant": "R-Dynamic SE",
+    "price": 6399000,
+    "specs": {
+      "engine": "2.0L Turbo Petrol",
+      "transmission": "9-speed Automatic",
+      "fuelType": "Petrol",
+      "seatingCapacity": 5,
+      "bootSpace": "591L",
+      "features": ["All-Wheel Drive", "Matrix LED Headlights", "Meridian Sound System"]
+    },
+    "mileage": 12.0,
+    "safetyRating": 5.0,
+    "userReviews": [
+      "Luxury SUV with standout design.",
+      "Excellent on-road comfort and technology.",
+      "Premium ownership experience but expensive to maintain."
+    ]
+  }
+]

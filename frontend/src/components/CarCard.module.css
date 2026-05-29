@@ -1,0 +1,211 @@
+.card {
+  border: 1px solid var(--border);
+  background: var(--surface);
+  padding: 20px;
+  transition: border-color 0.15s;
+}
+
+.card:hover {
+  border-color: var(--white);
+}
+
+.topPick {
+  border-color: var(--white);
+  border-width: 2px;
+}
+
+/* ── Header ── */
+.cardHeader {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin-bottom: 14px;
+}
+
+.rankBadge {
+  width: 26px;
+  height: 26px;
+  border: 1px solid var(--border);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 12px;
+  font-weight: 700;
+  color: var(--text-muted);
+  flex-shrink: 0;
+}
+
+.topPick .rankBadge {
+  background: var(--white);
+  color: var(--black);
+  border-color: var(--white);
+}
+
+.carName {
+  flex: 1;
+  font-size: 14px;
+  line-height: 1.3;
+}
+
+.make {
+  font-weight: 400;
+  color: var(--text-muted);
+}
+
+.model {
+  font-weight: 700;
+  color: var(--text);
+}
+
+.variant {
+  font-weight: 400;
+  color: var(--text-muted);
+  font-size: 12px;
+}
+
+.topBadge {
+  font-size: 10px;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.8px;
+  border: 1px solid var(--white);
+  background: var(--white);
+  color: var(--black);
+  padding: 2px 8px;
+  flex-shrink: 0;
+}
+
+.price {
+  font-size: 18px;
+  font-weight: 700;
+  letter-spacing: -0.5px;
+  color: var(--text);
+  flex-shrink: 0;
+}
+
+/* ── Spec grid ── */
+.specGrid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 1px;
+  background: var(--border);
+  border: 1px solid var(--border);
+  margin-bottom: 14px;
+}
+
+.specItem {
+  background: var(--surface2);
+  padding: 8px 10px;
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+}
+
+.specHighlight {
+  background: var(--surface);
+}
+
+.specLabel {
+  font-size: 9px;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.8px;
+  color: var(--text-faint);
+}
+
+.specValue {
+  font-size: 13px;
+  font-weight: 600;
+  color: var(--text);
+}
+
+/* ── Analysis ── */
+.analysis {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 10px;
+  margin-bottom: 12px;
+}
+
+.analysisBlock {
+  background: var(--surface2);
+  border: 1px solid var(--border);
+  padding: 10px;
+}
+
+.analysisLabel {
+  font-size: 9px;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.8px;
+  margin-bottom: 5px;
+}
+
+.labelGreen {
+  color: var(--text);
+}
+
+.labelGray {
+  color: var(--text-muted);
+}
+
+.analysisText {
+  font-size: 12px;
+  color: var(--text-muted);
+  line-height: 1.55;
+}
+
+/* ── Features ── */
+.features {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 5px;
+  margin-bottom: 12px;
+}
+
+.featureTag {
+  border: 1px solid var(--border);
+  padding: 3px 8px;
+  font-size: 11px;
+  color: var(--text-muted);
+}
+
+/* ── Score bar ── */
+.scoreRow {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.scoreLabel {
+  font-size: 10px;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  color: var(--text-faint);
+  white-space: nowrap;
+}
+
+.scoreBar {
+  flex: 1;
+  height: 3px;
+  background: var(--border);
+}
+
+.scoreBarFill {
+  height: 100%;
+  background: var(--white);
+  transition: width 0.6s ease;
+}
+
+.scoreValue {
+  font-size: 12px;
+  font-weight: 700;
+  color: var(--text);
+  white-space: nowrap;
+}
+
+@media (max-width: 540px) {
+  .analysis    { grid-template-columns: 1fr; }
+  .specGrid    { grid-template-columns: repeat(2, 1fr); }
+}
